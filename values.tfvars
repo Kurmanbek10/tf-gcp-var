@@ -1,0 +1,8 @@
+cluster_name         = "my-gke-cluster"
+display_name         = "Service Account"
+location_tf          = "us-central1"
+service_account_id   = "service-account-id"
+node_count           = "1"
+cluster_disk_size    = "50"
+cluster_node         = "my-node-pool"
+machine_type         = "e2-medium"
