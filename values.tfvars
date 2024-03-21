@@ -1,3 +1,4 @@
+project_id           = "graphic-cosmos-417822"
 cluster_name         = "my-gke-cluster"
 display_name         = "Service Account"
 location_tf          = "us-central1"

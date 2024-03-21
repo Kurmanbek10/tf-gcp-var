@@ -1,5 +1,5 @@
 provider "google" {
-  project = "graphic-cosmos-417822"
-  region  = "us-central1"
+  project = var.project_id
+  region  = var.location_tf
   zone    = "us-central1-a"
 }
